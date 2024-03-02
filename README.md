@@ -1,7 +1,7 @@
 # bank-teller
 <h1>Linked List and Queue Practice!</h1>
 <h2>Importing data from a file and making a linked list<h2>
-
+<hr>
 <p>The importFile() function is very useful in this program! It is responsible for taking a String representing the path of the file to import (set with fileToImport in main()) and a LinkedList object as arguments. It then takes in tokens of data separated by commas, creates client objects from these tokens, and adds them to a linked list!</p>
 <hr>
 <h2>Functionality once a client Linked List is made</h2>
